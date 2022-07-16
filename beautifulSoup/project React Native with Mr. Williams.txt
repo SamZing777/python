@@ -1,0 +1,8 @@
+Fitness / Shopping App
+
+
+Icon Btn (Heart Icon)
+
+Place holder on the Icon as 100, when a user clicks on it, it gets rendered on the point (on top).
+
+onPress coin flies to the top and adds to the point
